@@ -1,0 +1,4 @@
+npm i prompt
+npm i chalk
+npm i qrcode-terminal
+

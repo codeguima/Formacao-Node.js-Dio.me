@@ -1,0 +1,5 @@
+npm install -D typescript -> para instalar o typescript
+npx tsc --init -> para iniciar o arquivo tsconfig
+npm i tsx -D -> para rodar o typescript automaticamentre
+npm i tsup -D -> para rodar no lugar do tsc, é mais moderno
+npm install @types/node -> para rodar typescript por padrão no node
