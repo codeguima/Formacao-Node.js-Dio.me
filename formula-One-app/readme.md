@@ -63,20 +63,6 @@ A minimal API built with Fastify to provide information about Formula 1 teams an
 ### Prerequisites
 - Node.js installed on your system.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd formula-1-app
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
 ### Running the API
 
 #### Development Mode
