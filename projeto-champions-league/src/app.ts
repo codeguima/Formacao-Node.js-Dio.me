@@ -8,8 +8,11 @@ function createApp() {
   app.use(express.json());
   app.use("/api", router);
 
+  const port = process.env.PORT;
+
   const corsOptions = {
-    methods: ["GET", "UPDATE"],
+    origin: `http://localhost:${port}`,
+    methods: ["GET", "UPDATE", "DELETE", "POST"],
   };
 
   app.use(cors());
