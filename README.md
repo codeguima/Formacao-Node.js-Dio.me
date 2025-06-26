@@ -82,3 +82,24 @@ O curso combina teoria, desafios práticos e projetos reais que simulam cenário
 
 ```bash
 git clone https://github.com/codeguima/nodejs-fundamentals.git
+```
+
+## 🛠 Tecnologias Utilizadas
+
+- Node.js
+- JavaScript (ES6+)
+- TypeScript
+- NPM
+- CommonJS & ES Module
+- Express.js
+- Fastify
+- HTTP Module
+- QRCode Library
+
+## 👨‍💻 Autor
+Feito por [Jhonny Guimarães]
+🔗 codeguima.com.br
+💼 LinkedIn
+
+📌 Licença
+Este repositório está licenciado sob a MIT License.
