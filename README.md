@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td>
-      <h1>🟢 Curso Node.js Fundamentals - DIO</h1>
+      <h1>Curso Node.js Fundamentals - DIO</h1>
     </td>
     <td align="right">
-      <img src="assets/node-logo.png" alt="Node.js Logo" width="100"/>
+      <img src="download3.webp" alt="Node.js Logo" width="100"/>
     </td>
   </tr>
 </table>
